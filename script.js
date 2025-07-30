@@ -59,7 +59,7 @@ const messages = [
     "Are you positive?",
     "Go to the Eye Doctor!",
     "I will give you a cookie!",
-    "I am calling your the doctor!",
+    "I am calling your doctor!",
     "Use my lenskart ID",
     "I have choosen some glasses for you!",
     "Just kidding, say yes please! ❤️"
